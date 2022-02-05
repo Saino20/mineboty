@@ -3,10 +3,12 @@
     "port": "",
     "name": "katy",
     "auto-night-skip": "false",
-    "prefix": "",
+    "token": "OTM1OTQzNDQyMzM1NDE2MzQw.YfF_QQ.qudO3RYfYeejWtrERvuYIq_2Tr0", 
+    "channelid": "939534859314004028",
+    "prefix": "~",
     "login-enabled": "true",
     "register-cmd": "/login kartikopp kartikopp",
     "login-cmd": "/login kartikopp",
-    "loginmsg": "",
+    "loginmsg": "Hello",
     "auto-reconnect": "true"
 }
